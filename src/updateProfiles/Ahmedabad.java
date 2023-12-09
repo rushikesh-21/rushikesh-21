@@ -64,6 +64,8 @@ public class Ahmedabad {
 		System.out.println("Profile Updated Successfully");
 		
 		Thread.sleep(2000);
+
+		//close browser
 		driver.close();
 
 	}
