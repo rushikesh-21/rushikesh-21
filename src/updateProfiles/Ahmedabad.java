@@ -65,7 +65,7 @@ public class Ahmedabad {
 		
 		Thread.sleep(2000);
 
-		//close browser
+		//close browser and windows
 		driver.close();
 
 	}
